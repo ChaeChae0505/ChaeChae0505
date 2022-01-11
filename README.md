@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 I got inspiration from [here](https://github.com/changh95)[here](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaeChae0505&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
