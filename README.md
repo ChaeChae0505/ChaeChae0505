@@ -5,7 +5,9 @@
 - Github : [https://github.com/ChaeChae0505](https://github.com/ChaeChae0505)  
 
 - Current Position : Master candidate  
-- Today I learned [Here](https://github.com/ChaeChae0505/TIL-learning)
+- Paper review [Here](https://github.com/ChaeChae0505/TIL-learning)
+- Pytorch study [Here](https://github.com/ChaeChae0505/Pytorch)
+- CheatSheet [Here]()
 
 
 ## 💖 Interests
