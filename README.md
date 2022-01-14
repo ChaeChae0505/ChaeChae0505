@@ -5,6 +5,7 @@
 - Github : [https://github.com/ChaeChae0505](https://github.com/ChaeChae0505)  
 
 - Current Position : Master candidate  
+- Today I learned [Here](https://github.com/ChaeChae0505/TIL-learning)
 
 
 ## 💖 Interests
