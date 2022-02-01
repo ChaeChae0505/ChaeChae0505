@@ -7,7 +7,7 @@
 - Current Position : Master candidate  
 - Paper review [Here](https://github.com/ChaeChae0505/Paper-reading)
 - Pytorch study [Here](https://github.com/ChaeChae0505/Pytorch)
-- CheatSheet [Here](https://github.com/ChaeChae0505/Cheatseat)
+- CheatSheet - Error , Tip,,,, [Here](https://github.com/ChaeChae0505/Cheatseat)
 - Using [Here](https://github.com/ChaeChae0505/Using)
 
 
