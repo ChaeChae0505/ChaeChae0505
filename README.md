@@ -34,7 +34,7 @@
 - Etc,,
 
 ## 📫 Publications
-
+- 2022 KROS 로봇 조작을 위한 Yolo기반 물체 인식 및 파지점 검출(YOLO based Object and Grasping Point Detection for Robot Manipulation )[https://www.youtube.com/watch?v=9PmLpBLA5zo](https://www.youtube.com/watch?v=9PmLpBLA5zo)
 <!--
 **ChaeChae0505/ChaeChae0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
