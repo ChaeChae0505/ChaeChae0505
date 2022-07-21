@@ -50,11 +50,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...💙
 -->
 
-![chaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeChae0505&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeChae0505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![profile_view_counter](https://komarev.com/ghpvc/?username=ChaeChae0505)  
 I got inspiration from [here](https://github.com/changh95)[here](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md)
+![chaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeChae0505&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeChae0505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chaeygirl)](https://solved.ac/chaeygirl)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chaeygirl)](https://solved.ac/chaeygirl)
