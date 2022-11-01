@@ -12,7 +12,7 @@
 
 
 ## 💖 Interests
-- Research Area : 6-dof Pose estimation, 2D/3D Pose Estimation, Object Detection, Image Classification, Avatar & 3D Reconstruction, Object Tracking, Object Segmentation, TensorRT Optimizer, Model Deployment, All About Deep Learning and Computer Vision, SLAM, mobile Robotics, Manipulation 
+- Research Area : 6-dof Pose estimation, 2D/3D Pose Estimation, Object Detection, Image Classification, Avatar & 3D Reconstruction, Object Tracking, Object Segmentation, Model Deployment, All About Deep Learning and Computer Vision, SLAM, mobile Robotics, Manipulation 
 
 ## 🔭 Education & Work Experience
 - Master's course **HYU-KITECH** (2021 - **PRESENT**)
